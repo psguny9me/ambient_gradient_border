@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
-import 'dart:ui' as ui;
 
 class AmbientGradientBorder extends StatefulWidget {
   final double width;
@@ -34,7 +33,7 @@ class AmbientGradientBorder extends StatefulWidget {
         super(key: key);
 
   @override
-  _AmbientGradientBorderState createState() => _AmbientGradientBorderState();
+  State<AmbientGradientBorder> createState() => _AmbientGradientBorderState();
 }
 
 class _AmbientGradientBorderState extends State<AmbientGradientBorder>
