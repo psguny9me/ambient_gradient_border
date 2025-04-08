@@ -2,6 +2,10 @@
 
 `ambient_gradient_border` 패키지는 Flutter 앱에서 사용할 수 있는 아름다운 애니메이션 그라데이션 테두리 효과를 제공하는 라이브러리입니다. 어두운 배경에서 최적의 효과를 나타내며, 위젯에 현대적인 글로우 효과를 추가할 수 있습니다.
 
+
+![RPReplay_Final1744108764](https://github.com/user-attachments/assets/200bc9ff-4b4b-4321-a6c0-d267aaac4905)
+
+
 ## 특징
 
 - 부드러운 그라데이션 테두리 애니메이션
